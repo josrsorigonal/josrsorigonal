@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![JosRs](/Zeichnung.svg "JosRs")
+![JosRs](/JosRsBanner.svg "JosRs")
