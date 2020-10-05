@@ -1,1 +1,1 @@
-![JosRs](/JosRsBanner.svg "JosRs")
+![JosRs](/img/JosRsBanner.svg "JosRs")
